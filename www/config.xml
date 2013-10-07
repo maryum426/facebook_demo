@@ -58,8 +58,8 @@
     <feature name="http://api.phonegap.com/1.0/notification"/>
 
     <gap:plugin name="com.phonegap.plugins.facebookconnect">
-       <param name="APP_ID" value="470700906355954" />
-       <param name="APP_NAME" value="Brent1" />
+       <param name="APP_ID" value="366407670138696" />
+       <param name="APP_NAME" value="sweetness_localhost" />
     </gap:plugin>
     
     <access origin="*" />
